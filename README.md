@@ -4,18 +4,17 @@
 
 ## Sobre o projeto
 
-<img src="./public/images/model-s.PNG" alt=" model s">
+<img src="./public/todoapp.PNG" alt="todoapp">
 <div align="center"><a href="#top">
-<img src="./public/images/model-y.PNG" alt="model y">
 
 >Todo App utilizando React.
 </a></div>
 
 <a href="https://todolist-react-mikael.netlify.app" target="_blank">
-    <img alt="Demo on Netlify" src="./public/todoapp.PNG">
+    <img alt="Demo on Netlify" src="./public/demo.PNG">
   </a>
 
-<p align="left">(<a href="https://homepage-tesla-clone.netlify.app">Clique aqui para abrir um demontraçâo</a>)</p>
+<p align="left">(<a href="https://todolist-react-mikael.netlify.app">Clique aqui para abrir um demontraçâo</a>)</p>
 
 
 
