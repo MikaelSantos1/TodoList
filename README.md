@@ -41,7 +41,7 @@
 
 2. Clone o repositorio
    ```sh
-   git clone https://github.com/MikaelSantos1/tesla-clone.git
+   git clone https://github.com/MikaelSantos1/TodoList.git
    ```
 3. Instale as  depencias
    ```sh
