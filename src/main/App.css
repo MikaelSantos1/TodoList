@@ -1,0 +1,16 @@
+.App {
+  border: 0;
+  padding: 0;
+  margin: 0 auto 0 auto;
+  height: 100vh;
+  width: 500px;
+  flex-direction: column;
+  box-sizing: border-box;
+  position: absolute;
+}
+
+@media(max-width:550px) {
+  .App {
+    width: 80vw;
+  }
+}

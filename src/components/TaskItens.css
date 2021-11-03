@@ -1,0 +1,10 @@
+TaskItens-Container {
+    width: 500px;
+    height: 65px;
+}
+
+@media (max-width:550px) {
+    TaskItens-Container {
+        width: 100%;
+    }
+}
