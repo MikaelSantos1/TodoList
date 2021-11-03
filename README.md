@@ -11,7 +11,7 @@
 </a></div>
 
 <a href="https://todolist-react-mikael.netlify.app" target="_blank">
-    <img alt="Demo on Netlify" src="./public/demo.PNG">
+    <img alt="Demo on Netlify" src="./public/demo.png">
   </a>
 
 <p align="left">(<a href="https://todolist-react-mikael.netlify.app">Clique aqui para abrir um demontraçâo</a>)</p>
